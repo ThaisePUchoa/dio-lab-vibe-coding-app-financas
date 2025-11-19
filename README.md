@@ -32,3 +32,14 @@ Advogados(as) autônomos(as) e escritórios que desejam praticidade e personaliz
 
 # Entregável da IA
 Gerar plano de MVP com telas, recursos e plano de validação inicial.
+
+Reflexao sobre o processo:
+o que funcionou bem?
+a clareza do PRD ajudou a IA a gerar fluxos e persona rapidamente.
+a abordagem vibe coding mostrou como prompts bem estruturados podem substituir código inciial
+
+o que não funcionou?
+limite de interações no lovable
+
+o que aprendi?
+A qualidade da resposta depende diretamente da intençao e do contexto fornecido
